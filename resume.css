@@ -1,3 +1,23 @@
 .heading {
     font-size: 35px;
 }
+
+.intro {
+    background-color: aquamarine;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.prof {
+    font-size: 20px;
+}
+
+.contactinfo {
+    font-size: 15px;
+}
+
+.subheading {
+    font-size: 20px;
+}
